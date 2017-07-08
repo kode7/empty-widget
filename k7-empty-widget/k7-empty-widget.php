@@ -2,12 +2,12 @@
 
 /*
 Plugin Name: Empty Widget
-Plugin URI: #
+Plugin URI: https://github.com/kode7/empty-widget/
 Description: If you want to replace a default widget of a theme with blank emptyness, this plugin is your solution.
 Author: KODE7
 Version: 0.1.0
 Author URI: https://kode7.it
-License: GPL2
+License: GPL3
 Text Domain: k7-empty-widget
 Domain Path: /widgets
 */
