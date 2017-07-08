@@ -27,7 +27,7 @@ class K7_Empty_Widget extends WP_Widget {
             'classname' => 'K7_Empty_Widget',
             'description' => 'Replace default theme widgets in sidebars with a blank space.'
         );
-        parent::__construct('K7_Empty_Widget', 'My Widget', $widgetOps);
+        parent::__construct('K7_Empty_Widget', 'Empty Widget', $widgetOps);
     }
 
     /**
